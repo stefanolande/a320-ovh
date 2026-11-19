@@ -1,0 +1,14 @@
+PLACE,SW1,tactile_6x6,-25,-6,FAULT/ON
+PLACE,D1,led_3mm_upper,-25,0.35,FAULT
+PLACE,D2,led_3mm_lower,-25,-12.35,ON
+PLACE,SW2,tactile_6x6,25,-6,ON/AVAIL
+PLACE,D3,led_3mm_upper,25,0.35,ON
+PLACE,D4,led_3mm_lower,25,-12.35,AVAIL
+PLACE,BL,label_backlight,0,30,APU
+PLACE,BL,label_backlight,-25,15,MASTER SW
+PLACE,BL,label_backlight,25,15,START
+PLACE,H,mount_M3,-50,-25,
+PLACE,H,mount_M3,50,-25,
+PLACE,H,mount_M3,0,-25,
+PLACE,H,mount_M3,0,15,
+PCB_TO_PANEL_BACK,7.5
